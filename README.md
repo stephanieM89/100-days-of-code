@@ -4,11 +4,9 @@
 Day 1: January 18, 2019
 </h2>
 
-
-![page1](https://user-images.githubusercontent.com/31744964/51426154-5092d300-1bde-11e9-94d1-ce4145e4856a.JPG)
-<p align="center">
 <img src="https://user-images.githubusercontent.com/31744964/51426154-5092d300-1bde-11e9-94d1-ce4145e4856a.JPG">
 </p>
+
 **Today's Progress:**
 *Created a blog with Jekyll - used html and css
 

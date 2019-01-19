@@ -13,10 +13,11 @@ Day 1: January 18, 2019
 *Still need to deploy to Github Pages
 *Would like to integrate some javaScript functionality to the blog
 
-**Link to tweet:**[stephanieM89 Day 1](https://twitter.com/stephanie_code/status/1086380647260803074)
-**Link to site:** (Will update when complete)
+**Link to tweet:** [stephanieM89 Day 1](https://twitter.com/stephanie_code/status/1086380647260803074)
+**Link to site:**  (Will update when complete)
 
 <hr>
+
 <h2 align=”center”>
 Day 2: January 19, 2019
 </h2>

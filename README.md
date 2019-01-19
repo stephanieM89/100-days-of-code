@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+<p align="center">#I've joined the #100DaysOfCode Challenge</p>
 
 <h2 align=”center”>
 Day 1: January 18, 2019

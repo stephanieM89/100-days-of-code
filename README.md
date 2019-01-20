@@ -9,7 +9,7 @@ Day 1: January 18, 2019
 </p>
 
 **Today's Progress:**
-*Created a blog with Jekyll - used html and css
+Created a blog with Jekyll - used html and css
 
 **Thoughts:**
 *Would like to integrate a comments functionality to the blog

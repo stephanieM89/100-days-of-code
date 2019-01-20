@@ -17,6 +17,7 @@ Created a blog with Jekyll - used html and css
 Would like to integrate a comments functionality to the blog
 
 **Link to tweet:** [stephanieM89 Day 1](https://twitter.com/stephanie_code/status/1086380647260803074)
+
 **Link to site:**  [My blog - Stephanie's Coding Adventures](https://stephaniescodingadventures.com/)
 
 <hr>

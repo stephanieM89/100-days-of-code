@@ -9,10 +9,12 @@ Day 1: January 18, 2019
 </p>
 
 **Today's Progress:**
+
 Created a blog with Jekyll - used html and css
 
 **Thoughts:**
-*Would like to integrate a comments functionality to the blog
+
+Would like to integrate a comments functionality to the blog
 
 **Link to tweet:** [stephanieM89 Day 1](https://twitter.com/stephanie_code/status/1086380647260803074)
 **Link to site:**  [My blog - Stephanie's Coding Adventures](https://stephaniescodingadventures.com/)
@@ -28,9 +30,11 @@ Day 2: January 19, 2019
 
 
 **Today's Progress:**
-*Started to implement a comments feature to the blog. After some research I decided to go for Staticman.
-*Forms are complete. 
+
+Started to implement a comments feature to the blog. After some research I decided to go for Staticman.
+Forms are complete. 
 
 **Thoughts:**
-*Comments implementation incomplete.  Staticman not yet configured with Github.
+
+Comments implementation incomplete.  Staticman not yet configured with Github.
 

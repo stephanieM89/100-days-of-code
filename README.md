@@ -5,7 +5,7 @@ Day 1: January 18, 2019
 </h2>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/31744964/51426154-5092d300-1bde-11e9-94d1-ce4145e4856a.JPG">
+<img src="https://user-images.githubusercontent.com/31744964/51426154-5092d300-1bde-11e9-94d1-ce4145e4856a.JPG" alt="screenshot">
 </p>
 
 **Today's Progress**:
@@ -27,7 +27,7 @@ Day 2: January 19, 2019
 </h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/31744964/51439934-cff4d500-1cb8-11e9-82a4-684d356150b8.JPG"></p>
+  <img src="https://user-images.githubusercontent.com/31744964/51439934-cff4d500-1cb8-11e9-82a4-684d356150b8.JPG" alt="screenshot"></p>
 
 
 **Today's Progress:**
@@ -44,8 +44,7 @@ Day 3: January 20, 2019
 </h2>
 
 <p align="center">
-  <img src="![domain](https://user-images.githubusercontent.com/31744964/51486433-95626980-1d98-11e9-85fd-d8c2efecd847.JPG)
-"></p>
+  <img src="https://user-images.githubusercontent.com/31744964/51486433-95626980-1d98-11e9-85fd-d8c2efecd847.JPG" alt="screenshot"></p>
 
 
 **Today's Progress:**

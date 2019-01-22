@@ -53,19 +53,23 @@ Day 3: January 20, 2019
 ***Link to site:**  [My blog - Stephanie's Coding Adventures](https://stephaniescodingadventures.com/)
 
 **Thoughts:**
-* Unable to connect Staticman to forms due to issues with an intermittent sever load problem.  Added to the waiting list so hopefully will be up and running in a few days time!
+*Unable to connect Staticman to forms due to issues with an intermittent sever load problem.  Added to the waiting list so hopefully will be up and running in a few days time!
 
 <h2 align=”center”>
 Day 4: January 21, 2019
 </h2>
 
-<p align="center">
-  <img src=""></p>
-
-
 **Today's Progress:**
-
-
+*Started to learn Umbraco 
 
 **Thoughts:**
+*Will continue this tomorrow!
 
+<h2 align=”center”>
+Day 5: January 22, 2019
+</h2>
+
+**Today's Progress:**
+*
+
+**Thoughts:**

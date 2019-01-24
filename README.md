@@ -66,10 +66,12 @@ Day 4: January 21, 2019
 *Will continue this tomorrow!
 
 <h2 align=”center”>
-Day 5: January 22, 2019
+Day 5: January 24, 2019
 </h2>
 
 **Today's Progress:**
-*
+*Started a tutorial to build a site with Umbraco
+  - Found a bootstrap template
+  - Got it running on my machine
+  - Set up SQL
 
-**Thoughts:**

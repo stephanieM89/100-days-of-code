@@ -75,3 +75,12 @@ Day 5: January 24, 2019
   - Got it running on my machine
   - Set up SQL
 
+<h2 align=”center”>
+Day 6: January 28, 2019
+</h2>
+
+**Today's Progress:**
+*Finished first Umbraco tutorial
+  - Fixed Microsoft SQL Server connection problems
+  - Got RenderBody() method working in base file
+  
